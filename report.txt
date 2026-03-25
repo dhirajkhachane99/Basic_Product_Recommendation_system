@@ -1,0 +1,25 @@
+Project: Product Recommendation System
+
+Objective:
+Recommend products based on user input using collaborative and content-based filtering.
+
+Dataset:
+MovieLens 100K (user ratings and product/movie data)
+
+Methodology:
+- Collaborative Filtering using cosine similarity
+- Content-Based Filtering using TF-IDF vectorization
+
+Features:
+- Input product/movie and get recommendations
+- Two recommendation methods
+- Export recommendations to CSV
+- Data analysis included in Jupyter Notebook
+
+Insights:
+- Most ratings are between 3–5
+- Some products/movies are more popular
+- System handles both new user and popular item recommendations
+
+Conclusion:
+The system successfully recommends relevant products using real-world user ratings and product data.
